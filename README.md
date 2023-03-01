@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdodoud&label=Profile%20views&color=0e75b6&style=flat" alt="abdodoud" /> </p>
 
-- 💬 Ask me about **Java and Angular**
+- 💬 Ask me about **NestJS and Angular**
 
 - 📫 How to reach me **abderrahimdoudou28@gmail.com**
 
