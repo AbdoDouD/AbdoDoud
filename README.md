@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdodoud&show_icons=true&locale=en&layout=compact" alt="abdodoud" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdoDoud)](https://github.com/AbdoDoud/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdoDoud&show_icons=true)](https://github.com/AbdoDoud/github-readme-stats)
